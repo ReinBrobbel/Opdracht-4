@@ -1,0 +1,9 @@
+body{background-color:grey; 
+    color: rgb(49, 42, 54); 
+    font-family: Geneva, Tahoma, sans-serif;}
+h1 {color:#a52a2a;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.border {border: solid; color: rgb(221, 151, 151);}
+p {font-family: 'Courier New', Courier, monospace;}
